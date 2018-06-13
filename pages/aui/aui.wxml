@@ -1,0 +1,6 @@
+<view class="aui-bar aui-bar-nav" id="aui-view">
+    <view class="aui-btn aui-pull-left" tapmode onclick="closeWin()">
+        <view class="aui-iconfont aui-icon-left"></view>
+    </view>
+    <view class="aui-title">时间轴</view>
+</view>

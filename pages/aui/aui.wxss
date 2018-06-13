@@ -1,0 +1,2 @@
+/* pages/aui/aui.wxss */
+@import "../../static/css/aui.wxss";
